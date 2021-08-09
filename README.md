@@ -24,5 +24,5 @@ step2: load linear regression model and train by using previous dataset
 
 
 step3: predict diabetes by test dataset and draw pictures
-
+![](https://raw.githubusercontent.com/XuchenSun/LinearRegression/master/linearRegression.jpg)
 
