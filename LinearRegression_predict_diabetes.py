@@ -23,7 +23,7 @@ diabetes_feature = diabetes.data[:, np.newaxis, 2]  # only use one of feature
 diabetes_target = diabetes.target  # set the value for linear Regression
 
 
-# 70% dataset for train and 30% dataset for predict
+# 80% dataset for train and 20% dataset for test set
 # set random_state
 train_feature, test_feature, train_target, test_target = train_test_split(diabetes_feature, diabetes_target, test_size=0.2, random_state=50)
 
