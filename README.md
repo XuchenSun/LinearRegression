@@ -1,5 +1,6 @@
 # LinearRegression
-Author: Xuchen Sun
+Author: Xuchen Sun  
+
 license: General Public License （GPL）
 Contact: xuchens@mun.ca
 Hardware Note CPU:AMD3900
