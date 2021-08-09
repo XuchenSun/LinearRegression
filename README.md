@@ -20,7 +20,7 @@ Date: 2021-08-09
 step1: prepare dataset
 
 
-step2: load linear regression model and train by using previous dataset
+step2: load linear regression model and train it by using previous dataset
 
 
 step3: predict diabetes by test dataset and draw pictures
